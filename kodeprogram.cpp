@@ -19,7 +19,7 @@ const int max_karyawan = 2;
 Karyawan dataKaryawan[max_karyawan];
 int jumlahKaryawan = 0;
 
-ampilkanDataKaryawan() {
+tampilkanDataKaryawan() {
     cout << "							\n"; 
     cout << "===== Data Karyawan =====\n";
     for (int i = 0; i < jumlahKaryawan; ++i) {
