@@ -35,5 +35,5 @@ tampilkanDataKaryawan() {
         cout << "Jenis Kelamin: " << (dataKaryawan[i].jenisKelamin == 'L' ? "Laki-laki" : "Perempuan") << endl;
         cout << "------------------------\n";
     }
-}  
+}    
 
