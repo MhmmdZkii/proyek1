@@ -72,4 +72,4 @@ void tambahDataKaryawan() {
         cout << "Data Karyawan sudah penuh.\n";
     }
 }    
-
+        
