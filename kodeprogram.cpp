@@ -71,5 +71,5 @@ void tambahDataKaryawan() {
     	cout << "							\n"; 
         cout << "Data Karyawan sudah penuh.\n";
     }
-}
+}    
 
